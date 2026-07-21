@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Segundo Intento.slnx",
+    "dotnet.defaultSolution": "Segunda-Prueba-del-proyecto-.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
