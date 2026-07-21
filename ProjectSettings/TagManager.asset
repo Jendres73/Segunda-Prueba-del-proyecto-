@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemigo
+  - Jugador
+  - ZTterreno
+  - Enemy
+  - Building
+  - Resource
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Terreno
+  - Water
+  - UI
+  - Unidades
+  - Player
+  - Enemy
+  - Nuves
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terreno
+    uniqueID: 1679199131
+    locked: 0
+  - name: Ambiente
+    uniqueID: 3313440521
+    locked: 0
+  - name: Unidades
+    uniqueID: 2847861767
+    locked: 0
+  - name: Nuves
+    uniqueID: 582919111
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
