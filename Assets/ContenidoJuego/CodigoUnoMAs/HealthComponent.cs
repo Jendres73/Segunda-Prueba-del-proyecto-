@@ -48,11 +48,6 @@ public class HealthComponent : MonoBehaviour
 
         // 2. ELIMINAMOS EL SCRIPT QUE LO IDENTIFICA COMO ENEMIGO ANTES DE DESTRUIR
         // Esto evita que el Manager lo vea, incluso si el objeto sigue ahí un frame más
-        EnemyUnit unitScript = GetComponent<EnemyUnit>();
-        if (unitScript != null)
-        {
-            Destroy(unitScript);
-        }
 
         // 3. Destruimos el objeto
         Destroy(gameObject);
